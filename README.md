@@ -22,3 +22,5 @@ This project includes:
 - Forecasts future sales trends based on historical data
 - Interactive filters and charts in the dashboard for real-time analysis
 
+If you want to collaborate or discuss data projects, feel free to connect!
+Made with 💡 by [Abdelrady Saady](https://www.linkedin.com/in/abdelradysaady)
